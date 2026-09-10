@@ -2,6 +2,7 @@
 ## Projects
 - Project 1: Mini Golf
 - Project 2: Coming soon
+## About Me
 Click here to learn more → [About Me](about.md)
 
 ## Notebook
